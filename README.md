@@ -24,7 +24,21 @@
 ---
 
 ## 🛠️ **Sobre mim**
-Sou apaixonado por tecnologia, com experiência prática em desenvolvimento de sistemas, automação de processos, RPA e análise de dados. Busco sempre inovar e entregar soluções eficientes para desafios de negócio, utilizando também técnicas de Machine Learning e transformação digital.
+Olá! 👋 Sou Cidirclay Queiroz, um Programador Python e Desenvolvedor Back-end apaixonado por construir soluções robustas, automatizar processos e transformar dados em insights valiosos. Formado em Ciências da Computação, onde consolidei uma base sólida em Análise de Dados, Machine Learning e Deep Learning.
+
+Meu foco é utilizar a tecnologia para criar soluções inovadoras, eficientes e de alto desempenho, com um interesse especial em tecnologias emergentes e transformação digital.
+
+**Atuo principalmente com:**
+
+* **Desenvolvimento Back-end:** Tenho sólida experiência na criação de aplicações web escaláveis com **Python** e **Django**, desenvolvendo e integrando APIs REST para conectar sistemas de forma eficiente. Também possuo habilidades em programação de sockets para comunicação em tempo real.
+
+* **Automação de Processos (RPA):** Utilizo ferramentas como **Selenium**, **BeautifulSoup** e **Pandas** para automatizar tarefas repetitivas e criar rotinas de web scraping e processamento de dados, transformando horas de trabalho manual em minutos de execução automatizada.
+
+* **Análise e Visualização de Dados:** Sou habilidoso no uso de **SQL** para consultas complexas e no desenvolvimento de dashboards estratégicos com **Power BI** e **Excel (VBA)**, facilitando a análise de KPIs e a tomada de decisões gerenciais.
+
+* **Suporte Técnico e Infraestrutura:** Com uma longa trajetória como autônomo, possuo vasta experiência em diagnóstico e resolução de problemas de hardware/software, manutenção de sistemas e configuração de redes, garantindo ambientes de TI estáveis e seguros. 
+
+Estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar minhas habilidades. Vamos nos conectar e construir algo incrível juntos!
 
 ---
 
