@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Cidirclay Queiroz
 
-💻 **Programador Python | Back-end | Analista de Dados**
+💻 **Programador Python | Back-end | Analista de Dados | Automatizador **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://caca-preco-temp1.vercel.app/)
@@ -24,6 +24,7 @@
 ---
 
 ## 🛠️ **Sobre mim**
+
 Olá! 👋 Sou Cidirclay Queiroz, um Programador Python e Desenvolvedor Back-end apaixonado por construir soluções robustas, automatizar processos e transformar dados em insights valiosos. Formado em Ciências da Computação, onde consolidei uma base sólida em Análise de Dados, Machine Learning e Deep Learning.
 
 Meu foco é utilizar a tecnologia para criar soluções inovadoras, eficientes e de alto desempenho, com um interesse especial em tecnologias emergentes e transformação digital.
@@ -33,6 +34,8 @@ Meu foco é utilizar a tecnologia para criar soluções inovadoras, eficientes e
 * **Desenvolvimento Back-end:** Tenho sólida experiência na criação de aplicações web escaláveis com **Python** e **Django**, desenvolvendo e integrando APIs REST para conectar sistemas de forma eficiente. Também possuo habilidades em programação de sockets para comunicação em tempo real.
 
 * **Automação de Processos (RPA):** Utilizo ferramentas como **Selenium**, **BeautifulSoup** e **Pandas** para automatizar tarefas repetitivas e criar rotinas de web scraping e processamento de dados, transformando horas de trabalho manual em minutos de execução automatizada.
+
+* **IA e Machine Learning:** Aplico modelos de **Inteligência Artificial** e **Machine Learning** para realizar análises preditivas, extraindo tendências e insights a partir de grandes volumes de dados para apoiar a tomada de decisão estratégica.
 
 * **Análise e Visualização de Dados:** Sou habilidoso no uso de **SQL** para consultas complexas e no desenvolvimento de dashboards estratégicos com **Power BI** e **Excel (VBA)**, facilitando a análise de KPIs e a tomada de decisões gerenciais.
 
