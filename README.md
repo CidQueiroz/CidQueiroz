@@ -4,21 +4,6 @@
 
 ---
 
-## 🚀 **Stacks & Ferramentas**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-00C7B7?style=for-the-badge&logo=robots&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
 ## 🛠️ **Sobre mim**
 
 Olá! 👋 Sou Cidirclay Queiroz, um Programador Python e Desenvolvedor Back-end apaixonado por construir soluções robustas, automatizar processos e transformar dados em insights valiosos. Formado em Ciências da Computação, onde consolidei uma base sólida em Análise de Dados, Machine Learning e Deep Learning.
@@ -38,6 +23,21 @@ Meu foco é utilizar a tecnologia para criar soluções inovadoras, eficientes e
 * **Suporte Técnico e Infraestrutura:** Com uma longa trajetória como autônomo, possuo vasta experiência em diagnóstico e resolução de problemas de hardware/software, manutenção de sistemas e configuração de redes, garantindo ambientes de TI estáveis e seguros. 
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar minhas habilidades. Vamos nos conectar e construir algo incrível juntos!
+
+---
+
+## 🚀 **Stacks & Ferramentas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-00C7B7?style=for-the-badge&logo=robots&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
