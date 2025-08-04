@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Cidirclay Queiroz
 
-💻 **Programador Python | Back-end | Analista de Dados | Automatizador **
+💻 **Programador Python | Back-end | Analista de Dados | Automatizador**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://caca-preco-temp1.vercel.app/)
