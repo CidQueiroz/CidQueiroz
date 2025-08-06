@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Cidirclay Queiroz
 
-💻 **Programador Python | Back-end | Analista de Dados | Automatizador**
+💻 **Programador Python | Back-end | Analista de Dados**
 
 ---
 
 ## 🛠️ **Sobre mim**
 
-Olá! 👋 Sou Cidirclay Queiroz, um Programador Python e Desenvolvedor Back-end apaixonado por construir soluções robustas, automatizar processos e transformar dados em insights valiosos. Formado em Ciências da Computação, onde consolidei uma base sólida em Análise de Dados, Machine Learning e Deep Learning.
+Olá! 👋 Sou Cidirclay Queiroz, um Programador Python (e outras stacks) e Desenvolvedor Back-end apaixonado por construir soluções robustas, automatizar processos e transformar dados em insights valiosos. Formado em Ciências da Computação, onde consolidei uma base sólida em Análise de Dados, Machine Learning e Deep Learning.
 
 Meu foco é utilizar a tecnologia para criar soluções inovadoras, eficientes e de alto desempenho, com um interesse especial em tecnologias emergentes e transformação digital.
 
@@ -38,6 +38,10 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
