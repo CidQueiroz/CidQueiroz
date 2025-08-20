@@ -8,6 +8,8 @@
 
 Olá! 👋 Sou Cidirclay Queiroz, um Programador Python (e outras stacks) e Desenvolvedor Back-end apaixonado por construir soluções robustas, automatizar processos e transformar dados em insights valiosos. Formado em Ciências da Computação, onde consolidei uma base sólida em Análise de Dados, Machine Learning e Deep Learning.
 
+Sou dono do site [![https://www.cdkteck.com.br](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.cdkteck.com.br)
+
 Meu foco é utilizar a tecnologia para criar soluções inovadoras, eficientes e de alto desempenho, com um interesse especial em tecnologias emergentes e transformação digital.
 
 **Atuo principalmente com:**
@@ -53,5 +55,5 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar e aprimorar
 ## 📫 **Entre em contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://caca-preco-temp1.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.cdkteck.com.br)
 [![Email](https://img.shields.io/badge/Email-cydy.queiroz@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cydy.queiroz@gmail.com)
